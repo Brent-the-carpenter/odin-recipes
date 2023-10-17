@@ -57,6 +57,7 @@ li{
 .link#Page:hover{
     color: aliceblue;
 }
+
 ol li{
     background-color: aliceblue;
     color: black;
@@ -68,6 +69,7 @@ ol{
     border: 5px solid black;
     background-color: aliceblue;
     margin: 5px;
+    list-style-position: inside;
 }
 img{
     border: 10px solid black;
